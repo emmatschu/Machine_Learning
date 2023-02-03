@@ -17,6 +17,9 @@ I am familiar with utilizing both supervised and unsupervised machine learning m
   - Singular value decomposition
   - Principle Component Analysis
  
+ 
+## Part 1: Portfolio Contents
+
 In this portfolio, I provide examples of k Nearest Neighbors clustering, Decision Trees, Support Vector Machines, and k Means clustering. In the project 3 files in particular my goal was to use supervised and unsupervised machine learning together to solve compatible tasks, first using unsupervised machine learning in the form of kNN to analyze trends in data without my intervention and then k-means to cluster the data with more user interaction and direction. 
   
   I have also learned several evaluation metrics that allow me to optimize my parameters, for example using the elbow method to find the best k-value for kNN clustering and comparing SVD performance using MSE. I have also used cross validation to select an optimal model for a machine learning task. The ability to choose my own parameters and critically evaluate models showws I have some depth of knowledge on the math and logic behind machine learning algorithms beyond just implementing them, which will prepare me to come up with novel solutions to any problems requiring machine learning problems in this position. Better understanding the way these algorithms work will also help me apply them in context and think of the ethical implications and potential bias sources that they are likely to encounter- for example the importance of being skepical about weight assignments in linear regressions that should be drawing from many variables to create a holistic model. I also have experience implementing and analysing Gini scores, minimizing error bars for SVD, using Euclidean distance metrics, and evaluating different notions of the time it takes a program to run (seconds, iterations, and epochs). 
