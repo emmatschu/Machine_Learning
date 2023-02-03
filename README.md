@@ -18,7 +18,7 @@ I am familiar with utilizing both supervised and unsupervised machine learning m
   - Principle Component Analysis
  
  
-## Part 1: Portfolio Contents
+## Part 2: Portfolio Contents
 
 In this portfolio, I provide examples of k Nearest Neighbors clustering, Decision Trees, Support Vector Machines, and k Means clustering. In the project 3 files in particular my goal was to use supervised and unsupervised machine learning together to solve compatible tasks, first using unsupervised machine learning in the form of kNN to analyze trends in data without my intervention and then k-means to cluster the data with more user interaction and direction. 
   
