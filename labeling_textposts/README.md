@@ -1,5 +1,6 @@
-# Final Proof Portfolio - New Item (Project 3)
-
+# Labeling text posts
+Trying to create cohesive categorizations for anonymous textposts
+***
 ## Part 1: Goal
 My new assignment works with both supervised and unsupervised learning tasks. I also worked iteratively and reflectively to apply machine learning techniques to a data set of interest with informative documentation, written for a variety of audiences. I also detail some ethical implications. My project uses a dataset of posts taken from the Smith Confessional, and anonymous posting forum used by Smith students. There are a lot of different topics and discussions on the Confessional, and thousands of posts, so I wanted to create a machine learning algorithm that could look at the text of posts and organize them into categories depending on their characteristics.  
 
