@@ -1,4 +1,5 @@
-# Final Proof Portfolio - Revised Item (Project 2)
+# Guessing the party of the Senator who wrote a tweet
+Comparing different machine learning models 
  
 ## Part 0: Major Revisions Summary
 
